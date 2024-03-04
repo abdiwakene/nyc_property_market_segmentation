@@ -1,1 +1,3 @@
 # nyc_property_market_segmentation
+
+Market segmentation, in the real estate industry involves dividing the property market into groups based on factors like property type, location, price range and buyer demographics. This method helps stakeholders target segments with customized strategies and services. The following project utilized Unsupervised Learning methods to analyze the real estate market, in NYC uncovering insights into its structure and behavior. The groundwork established by this study offers opportunities for investigation ranging from in depth statistical analysis to predictive modeling.
